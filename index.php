@@ -14,6 +14,6 @@
 
 <body>
   <script src="js/scripts.js"></script>
-  Hello World
+  Hello World - this file was edited in Atom, merged to the github repo and then fetched by the webserver from the github repo.
 </body>
 </html>
